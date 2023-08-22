@@ -11,7 +11,8 @@ By following this tutorial, you'll achieve:
 3. **Real-Time Chat Implementation:** Develop a functional chat application, mastering the art of sending and receiving messages instantly.
 4. **Tackling Real Challenges:** Learn to overcome real-world hurdles like connection errors and system failovers.
 5. **Best Practices for Security and Scalability:** Discover essential practices for ensuring security and scalability in WebSocket applications.
-// Chat application layout 
-![Chat App Screenshot](image/img1.png)
-// Chat application layout after adding user
-![Chat App Screenshot](image/img2.png)
+
+### Chat application layout 
+![Chat App](image/img1.png)
+### Chat application layout after adding user
+![Chat App](image/img2.png)
